@@ -1978,6 +1978,10 @@ a {
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
 }
+.cid-srMXpOfqR4 .navbar-buttons {
+  flex-wrap: wrap;
+  text-align: center;
+}
 .cid-srMXpOfqR4 button.navbar-toggler {
   outline: none;
   width: 31px;
@@ -3593,6 +3597,10 @@ blockquote {
 .cid-srMXpOfqR4 ul.navbar-nav {
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
+}
+.cid-srMXpOfqR4 .navbar-buttons {
+  flex-wrap: wrap;
+  text-align: center;
 }
 .cid-srMXpOfqR4 button.navbar-toggler {
   outline: none;
